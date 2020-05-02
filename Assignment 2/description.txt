@@ -1,0 +1,3 @@
+to decrypt the file we step back evry step in the encrypt function 
+- first we decrytpt the second step 
+- then we decrypt the first step
